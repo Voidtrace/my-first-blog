@@ -122,5 +122,5 @@ USE_TZ = True
 STATIC_URL = '/static/'
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
 
-# macx /marco.ac01@gmail.com /djangoxd5015
+# macx /marco.ac01@gmail.com /djangoxd5015 // pythonanywhere pawxd5015 // mysqlxd5015
 
